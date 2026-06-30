@@ -1,7 +1,7 @@
 # MLOps Pipeline Management API
 
 ## Overview
-This coursework implements the referral/deferral brief for `5COSC022W Client-Server Architectures (2025/26)` as a JAX-RS REST API using Jersey and an embedded Grizzly server.
+This coursework implements a JAX-RS REST API using Jersey and an embedded Grizzly server.
 
 The API models an MLOps platform with three in-memory resources:
 - `MLWorkspace`
